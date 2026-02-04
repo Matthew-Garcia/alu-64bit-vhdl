@@ -95,3 +95,6 @@ alu-64bit-vhdl/
 
 ## 🔗 Notes
 This project was developed as part of an academic computer architecture course and is presented here in a portfolio-ready format to demonstrate practical digital design skills.
+
+[← Back to Portfolio](https://matthew-garcia-portfolio.vercel.app)
+
